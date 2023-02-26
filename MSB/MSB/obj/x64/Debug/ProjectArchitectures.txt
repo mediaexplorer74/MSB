@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\MSB\Fitbit.API.Client\Fitbit.API.Client.csproj;neutral
+C:\Users\Admin\source\repos\MSB\Fitbit.API.Model\Fitbit.API.Model.csproj;neutral
+C:\Users\Admin\source\repos\MSB\Fitbit.API.Model\Fitbit.API.Model.csproj;neutral
+C:\Users\Admin\source\repos\MSB\MSB\MSB.csproj;x64

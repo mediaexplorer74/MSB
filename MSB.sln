@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33417.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSB", "MSB\MSB.csproj", "{5809B203-0F10-416B-8A0E-CB21E5FD20A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSB", "MSB\MSB\MSB.csproj", "{5809B203-0F10-416B-8A0E-CB21E5FD20A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitbit.API.Client", "Fitbit.API.Client\Fitbit.API.Client.csproj", "{CF5D191F-835F-4A4F-AB4F-6CF0C68FE8EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitbit.API.Client", "MSB\Fitbit.API.Client\Fitbit.API.Client.csproj", "{CF5D191F-835F-4A4F-AB4F-6CF0C68FE8EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitbit.API.Model", "Fitbit.API.Model\Fitbit.API.Model.csproj", "{79A8A253-7DB2-4F2F-8EBA-3B175037662F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitbit.API.Model", "MSB\Fitbit.API.Model\Fitbit.API.Model.csproj", "{79A8A253-7DB2-4F2F-8EBA-3B175037662F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

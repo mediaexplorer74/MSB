@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\FitBand\FitBand\FitBand.csproj;x86
+C:\Users\Admin\source\repos\FitBand\Fitbit.API.Client\Fitbit.API.Client.csproj;x86
+C:\Users\Admin\source\repos\FitBand\Fitbit.API.Model\Fitbit.API.Model.csproj;x86
+C:\Users\Admin\source\repos\FitBand\Fitbit.API.Model\Fitbit.API.Model.csproj;x86
