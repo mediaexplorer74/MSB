@@ -1,5 +1,5 @@
 # MSB
-I have not any Fitbit (Flex or similar). But... I'm interested in cool Fitbit "Cloud infrastructure"... ;)
+I have not any Fitbit (Flex or similar) device. But... I'm interested in cool Fitbit "Cloud infrastructure"... ;)
 
 ![Shot](Images/shot1.png)
 
