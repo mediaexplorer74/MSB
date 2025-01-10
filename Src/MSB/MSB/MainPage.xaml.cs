@@ -110,10 +110,10 @@ namespace FitBand
         private async void Browser_NavigationCompleted(WebView sender, 
         WebViewNavigationCompletedEventArgs args) 
         {
-            if (!args.IsSuccess) 
-            {
-                Debug.WriteLine("[i] Navigation to this page failed, check your internet connection.");
-            }
+            //if (!args.IsSuccess) 
+            //{
+            //    Debug.WriteLine("[i] Navigation to this page failed, check your internet connection.");
+            //}
 
             if (1==1)//(RedirectedToAuthPage(args.Uri.ToString()))
             {
@@ -171,11 +171,13 @@ namespace FitBand
                         }
                     }
 
-                    ListBox.Items.Add("Summary - caloriesOut: " + activities.summary.caloriesOut);
-                    ListBox.Items.Add("Summary - steps: " + activities.summary.steps);
-                    ListBox.Items.Add("Summary - caloriesBMR: " + activities.summary.caloriesBMR);
-                    ListBox.Items.Add("Summary - activeScore: " + activities.summary.activeScore);
-
+                    if (activities.summary != null)
+                    {
+                        ListBox.Items.Add("Summary - caloriesOut: " + activities.summary.caloriesOut);
+                        ListBox.Items.Add("Summary - steps: " + activities.summary.steps);
+                        ListBox.Items.Add("Summary - caloriesBMR: " + activities.summary.caloriesBMR);
+                        ListBox.Items.Add("Summary - activeScore: " + activities.summary.activeScore);
+                    }
 
                 }
             }           

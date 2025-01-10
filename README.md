@@ -3,8 +3,11 @@
 
 I have not any Fitbit (Flex or similar) device. But... I'm interested in cool Fitbit "Cloud infrastructure" such as dev.fitbit.com... ;)
 
-## Screenshot(s)
-![Shot](Images/shot01.png)
+## Screenshots
+![](Images/shot01.png)
+![](Images/shot02.png)
+![](Images/shot03.png)
+![](Images/shot04.png)
 
 ## My Crazy Idea 
 I have Microsoft Band 2. And I know that MS Health "cloud service" completly damaged. 
